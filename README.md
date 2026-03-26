@@ -61,7 +61,7 @@ pip install requests
 Replace this line in the code:
 
 ```
-MY_API_KEY = 'your_api_key_here'
+MY_API_KEY = '444eb7828a7aa2f78008631c86136049'
 ```
 
 ---
